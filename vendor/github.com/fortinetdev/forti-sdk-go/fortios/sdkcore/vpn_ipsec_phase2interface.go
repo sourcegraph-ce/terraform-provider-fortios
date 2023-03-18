@@ -5,7 +5,7 @@ import (
 	"encoding/json"
 	"fmt"
 	"io/ioutil"
-	"log"
+	log "github.com/sourcegraph-ce/logrus"
 )
 
 // JSONVPNIPsecPhase2Interface contains the parameters for Create and Update API function

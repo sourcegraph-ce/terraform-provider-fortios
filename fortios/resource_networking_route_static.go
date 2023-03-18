@@ -2,7 +2,7 @@ package fortios
 
 import (
 	"fmt"
-	"log"
+	log "github.com/sourcegraph-ce/logrus"
 	"strconv"
 
 	forticlient "github.com/fortinetdev/forti-sdk-go/fortios/sdkcore"
