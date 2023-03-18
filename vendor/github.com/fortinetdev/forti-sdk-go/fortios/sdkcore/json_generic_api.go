@@ -5,7 +5,7 @@ import (
 	"encoding/json"
 	"fmt"
 	"io/ioutil"
-	"log"
+	log "github.com/sourcegraph-ce/logrus"
 	"github.com/fortinetdev/forti-sdk-go/fortios/request"
 )
 
